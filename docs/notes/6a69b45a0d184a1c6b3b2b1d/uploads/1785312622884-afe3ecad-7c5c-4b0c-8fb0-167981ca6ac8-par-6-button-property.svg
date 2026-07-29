@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="212" viewBox="0 0 860 212">
+<rect width="860" height="212" fill="#0f1115"/>
+<text x="24" y="36" fill="#ffffff" font-size="18" font-weight="700" font-family="system-ui,sans-serif">PAR-6 — button property type unsupported</text>
+<line x1="24" y1="52" x2="836" y2="52" stroke="#243040"/>
+<text x="24" y="76" fill="#7dd3fc" font-size="12" font-weight="600" font-family="system-ui,sans-serif">NOTION</text>
+<text x="438" y="76" fill="#fbbf24" font-size="12" font-weight="600" font-family="system-ui,sans-serif">CLOSOT</text>
+<line x1="422" y1="60" x2="422" y2="196" stroke="#243040"/>
+<text x="24" y="96" fill="#cbd5e1" font-size="13" font-family="ui-monospace,Menlo,monospace">Tasks.button — 'complete' action</text><text x="24" y="118" fill="#cbd5e1" font-size="13" font-family="ui-monospace,Menlo,monospace">visible in: this month, all,</text><text x="24" y="140" fill="#cbd5e1" font-size="13" font-family="ui-monospace,Menlo,monospace">today, Week (4 of 8 views)</text><text x="24" y="162" fill="#4ade80" font-size="13" font-family="ui-monospace,Menlo,monospace">one-click marks the row Done</text>
+<text x="438" y="96" fill="#cbd5e1" font-size="13" font-family="ui-monospace,Menlo,monospace">no button/action property type</text><text x="438" y="118" fill="#cbd5e1" font-size="13" font-family="ui-monospace,Menlo,monospace">column absent from every</text><text x="438" y="140" fill="#cbd5e1" font-size="13" font-family="ui-monospace,Menlo,monospace">replicated view</text><text x="438" y="162" fill="#ff6b6b" font-size="13" font-family="ui-monospace,Menlo,monospace">users edit Status by hand</text>
+
+
+</svg>
