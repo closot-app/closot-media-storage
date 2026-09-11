@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 400" width="1500" height="400">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0f3d3e"/><stop offset="1" stop-color="#1f6f6b"/></linearGradient></defs>
+<rect width="1500" height="400" fill="url(#g)"/>
+<g opacity="0.22" fill="#e8f1ec">
+<rect x="980" y="240" width="60" height="120"/><rect x="1060" y="200" width="60" height="160"/><rect x="1140" y="260" width="60" height="100"/>
+<rect x="1220" y="150" width="60" height="210"/><rect x="1300" y="210" width="60" height="150"/><rect x="1380" y="90" width="60" height="270"/></g>
+<polyline points="1010,230 1090,190 1170,250 1250,140 1330,200 1410,80" fill="none" stroke="#f5c05a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="90" y="215" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#f4f7f5">Freelance Income Tracker</text>
+<text x="92" y="270" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#cfe3dc">Income by client · what is still owed · how lumpy the year really is</text>
+</svg>
