@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><defs><pattern id="tile" width="90" height="90" patternUnits="userSpaceOnUse">
+ <rect width="90" height="90" fill="#f7f2e6"/>
+ <circle cx="0" cy="0" r="29.700000000000003" fill="#13315f"/><circle cx="90" cy="0" r="29.700000000000003" fill="#13315f"/>
+ <circle cx="0" cy="90" r="29.700000000000003" fill="#13315f"/><circle cx="90" cy="90" r="29.700000000000003" fill="#13315f"/>
+ <circle cx="45.0" cy="45.0" r="23.400000000000002" fill="#2459a6"/>
+ <rect x="36.9" y="36.9" width="16.2" height="16.2" fill="#f7f2e6" transform="rotate(45 45.0 45.0)"/>
+ <path d="M45.0 5.3999999999999995 L45.0 84.6 M5.3999999999999995 45.0 L84.6 45.0" stroke="#f7f2e6" stroke-width="2.25"/>
+ <circle cx="45.0" cy="0" r="5.3999999999999995" fill="#2459a6"/><circle cx="45.0" cy="90" r="5.3999999999999995" fill="#2459a6"/>
+ <circle cx="0" cy="45.0" r="5.3999999999999995" fill="#2459a6"/><circle cx="90" cy="45.0" r="5.3999999999999995" fill="#2459a6"/>
+</pattern></defs><rect width="1200" height="630" fill="url(#tile)"/><rect x="270.0" y="125.0" width="660" height="380" rx="26" fill="#f7f2e6" stroke="#13315f" stroke-width="6"/><g transform="translate(600.0 265.0)"><path d="M-80 10 Q-60 -20 -40 10 T0 10 T40 10 T80 10" stroke="#2459a6" stroke-width="16" fill="none"/><path d="M-80 45 Q-60 15 -40 45 T0 45 T40 45 T80 45" stroke="#5b8fd6" stroke-width="12" fill="none"/></g><text x="600.0" y="435.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="6" fill="#13315f">SEASIDE</text></svg>
