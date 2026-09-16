@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520"><defs><pattern id="tile" width="80" height="80" patternUnits="userSpaceOnUse">
+ <rect width="80" height="80" fill="#f7f2e6"/>
+ <circle cx="0" cy="0" r="26.400000000000002" fill="#13315f"/><circle cx="80" cy="0" r="26.400000000000002" fill="#13315f"/>
+ <circle cx="0" cy="80" r="26.400000000000002" fill="#13315f"/><circle cx="80" cy="80" r="26.400000000000002" fill="#13315f"/>
+ <circle cx="40.0" cy="40.0" r="20.8" fill="#2459a6"/>
+ <rect x="32.8" y="32.8" width="14.399999999999999" height="14.399999999999999" fill="#f7f2e6" transform="rotate(45 40.0 40.0)"/>
+ <path d="M40.0 4.8 L40.0 75.19999999999999 M4.8 40.0 L75.19999999999999 40.0" stroke="#f7f2e6" stroke-width="2.0"/>
+ <circle cx="40.0" cy="0" r="4.8" fill="#2459a6"/><circle cx="40.0" cy="80" r="4.8" fill="#2459a6"/>
+ <circle cx="0" cy="40.0" r="4.8" fill="#2459a6"/><circle cx="80" cy="40.0" r="4.8" fill="#2459a6"/>
+</pattern></defs><rect width="1600" height="520" fill="url(#tile)"/><rect x="0" y="206.0" width="1600" height="108" fill="#13315f" opacity="0.92"/><rect x="0" y="200.0" width="1600" height="4" fill="#f0b429"/><rect x="0" y="316.0" width="1600" height="4" fill="#f0b429"/></svg>
